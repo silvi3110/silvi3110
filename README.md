@@ -9,7 +9,7 @@ Soy fanática de la tecnología y principalmente de las aplicaciones moviles en 
 
 ### Hablame por mis redes preferidas 😉:
 
-<a href="https://www.instagram.com/jh_silvi/" width="21px"/></a>
+<a href="https://instagram.com/jh_silvi?igshid=ZDdkNTZiNTM="/></a>
 
 </br>
 
