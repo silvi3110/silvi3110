@@ -27,11 +27,12 @@ Me gusta realizar diferentes tipos de actvidades como bailar, ver series, salir 
 
 ## 🦿👩‍💻 Acerca de mi carrera
 
-Decidi entrar a mi carrera por que me llamo mucho la atención la manera en que se desemvuelve al rededor del mundo, y mas que todo por que esta en constante evolución. Por esta razón el producto que me gustaria crear es la ciberseguridad.
+Decidi entrar a mi carrera por que me llamo mucho la atención la manera en que se desemvuelve al rededor del mundo, y mas que todo por que esta en constante evolución. Por esta razón el producto que me gustaria crear es una plataforma que ayude a controlar la ciberseguridad.
 
 <p align="center">
-  <img src="https://media.tenor.com/q14D_rMkpa8AAAAS/meme-el.gif" alt="img">
+  <img src="https://media.tenor.com/q14D_rMkpa8AAAAS/meme-el.gif" alt="img" width="500" height="300">
 </p>
 
-##
+##💼 
+
 
