@@ -37,6 +37,7 @@ Escogi la carrera de ingeniera de sistemas por que me llamo mucho la atención l
   <img src="https://media.tenor.com/q14D_rMkpa8AAAAS/meme-el.gif" alt="img" width="500" height="300">
 </p>
 
-##💼 
+## 💼 Tecnica adquirida
 
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://user-images.githubusercontent.com/124791561/217724372-4fb31904-4362-4783-b707-f6dd1a528a91.svg)
 
