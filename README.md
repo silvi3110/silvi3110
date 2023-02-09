@@ -16,7 +16,10 @@ Me encanta la tecnología, me gustan los animales como también experimentar nue
 ## 🍎📚 Colegio y logro escolar: 
 
 Estuve la mayor parte de mi vida en el colegio Aniceto Arce Turno Tarde y el único logro que pude conseguir me lo arrebataron.
-gift chistoso
+
+<p align="center">
+  <img src="https://plantillasdememes.com/img/plantillas/que-cosas-no01598159133.jpg" alt="img">
+</p>
 
 ## 🎬🎧 Hobbies: 
 
