@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 align="center">
+Hola soy <a href="" target="_blank" rel="noreferrer">Silvana Noelia Bamba Sossa</a> 👋
+</h3>
+<h2 align="center">
+Soy estudiante de Ingenieria de Sistemas  💻!
+</h2>
 
-<!--
-**silvi3110/silvi3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encanta la tecnología, me gustan los animales como también experimentar nuevas situaciones, soy una apasionada por la danza y me considero amante de las peliculas de acción.
 
-Here are some ideas to get you started:
+### Hablame por mis redes preferidas 😉:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Silvana Noelia | Instagram" width="21px"/></a>
+
+</br>
+
+## 🍎📚 Estudie en:
+
+## 🍎📚 Estudie en:
+
+## 🍎📚 Estudie en:
