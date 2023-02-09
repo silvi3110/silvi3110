@@ -13,8 +13,15 @@ Me encanta la tecnología, me gustan los animales como también experimentar nue
 
 </br>
 
-## 🍎📚 Estudie en:
+## 🍎📚 Colegio y logro escolar: 
 
-## 🍎📚 Estudie en:
+Estuve la mayor parte de mi vida en el colegio Aniceto Arce Turno Tarde y el único logro que pude conseguir me lo arrebataron.
+gift chistoso
 
-## 🍎📚 Estudie en:
+## 🎬🎧 Hobbies: 
+
+Me gusta realizar diferentes tipos de actvidades como bailar, ver series, salir a caminar e incluso hacer deporte en algunas ocasiones
+
+## 
+
+
