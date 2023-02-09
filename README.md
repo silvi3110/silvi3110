@@ -5,7 +5,7 @@ Hola soy <a href="" target="_blank" rel="noreferrer">Silvana Noelia Bamba Sossa<
 Soy estudiante de Ingenieria de Sistemas  💻!
 </h2>
 
-Me encanta la tecnología, me gustan los animales como también experimentar nuevas situaciones, soy una apasionada por la danza y me considero amante de las peliculas de acción.
+Soy fanática de la tecnología, y principalmente de las aplicaciones moviles en las cuales me gusta analizar me gustan los animales como también experimentar nuevas situaciones, soy una apasionada por la danza y me considero amante de las peliculas de acción.
 
 ### Hablame por mis redes preferidas 😉:
 
@@ -23,7 +23,11 @@ Estuve la mayor parte de mi vida en el colegio Aniceto Arce Turno Tarde y el ún
 
 ## 🎬🎧 Hobbies: 
 
-Me gusta realizar diferentes tipos de actvidades como bailar, ver series, salir a caminar e incluso hacer deporte en algunas ocasiones
+Me gusta realizar diferentes tipos de actvidades como
+- Bailar
+- Ver series
+- Salir a caminar
+- Y hacer deporte en algunas ocasiones
 
 ## 🦿👩‍💻 Acerca de mi carrera
 
