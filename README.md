@@ -16,15 +16,15 @@ Me encanta la tecnología, me gustan los animales como también experimentar nue
 ## 🍎📚 Colegio y logro escolar: 
 
 Estuve la mayor parte de mi vida en el colegio Aniceto Arce Turno Tarde y el único logro que pude conseguir me lo arrebataron.
-
-<p align="center">
-  <img src="https://plantillasdememes.com/img/plantillas/que-cosas-no01598159133.jpg" alt="img">
-</p>
+gift chistoso
 
 ## 🎬🎧 Hobbies: 
 
 Me gusta realizar diferentes tipos de actvidades como bailar, ver series, salir a caminar e incluso hacer deporte en algunas ocasiones
 
-## 
+## 🦿👩‍💻 Acerca de mi carrera
+
+Decidi entrar a mi carrera por que me llamo mucho la atención la manera en que se desemvuelve al rededor del mundo, y mas que todo por que esta en constante evolución. Por esta razón el producto que me gustaria crear es la ciberseguridad.
+
 
 
