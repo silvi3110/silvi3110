@@ -9,7 +9,8 @@ Soy fanática de la tecnología y principalmente de las aplicaciones moviles en 
 
 ### Hablame por mis redes preferidas 😉:
 
-<a href="https://instagram.com/jh_silvi?igshid=ZDdkNTZiNTM="/></a>
+<a href="https://instagram.com/jh_silvi?igshid=ZDdkNTZiNTM="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="SIlvana Noelia | Instagram" width="21px"/></a>
+</br>
 
 </br>
 
